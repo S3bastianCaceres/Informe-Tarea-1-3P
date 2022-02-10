@@ -31,6 +31,8 @@
 
 **13. Determine la inductancia total en la figura 13-44.**
  
+ ![image](https://user-images.githubusercontent.com/93739242/153436082-45cf6404-a6d9-4782-a38f-be28a8e4b742.png)
+
 
 ![lagrida_latex_editor (2)](https://user-images.githubusercontent.com/93739242/153429305-26e6aef0-da0b-4f21-a807-a2314ecf9902.png)
 
@@ -40,6 +42,8 @@
 
 **21. En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor: (a) 10μs (b) 20μs (c) 30μs (d) 40μs (e) 50μs**
  
+ ![image](https://user-images.githubusercontent.com/93739242/153436055-38624a75-0545-4155-bcde-df44554aa553.png)
+
 
 ![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/93739242/153429628-697e8229-e367-4ff1-9f8b-f4cd7286d31d.png)
 
@@ -49,6 +53,9 @@
 ![lagrida_latex_editor (5)](https://user-images.githubusercontent.com/93739242/153429699-978f49b4-bf48-4ee4-9c0e-f0116af67c1f.png)
 
 **29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre. ¿Cuál es la corriente en el inductor 1.0 ms después de que se abre el interruptor?**
+
+![image](https://user-images.githubusercontent.com/93739242/153435967-89eb09bd-061f-47f9-bb7b-6c0115712b30.png)
+
 
 ![lagrida_latex_editor (6)](https://user-images.githubusercontent.com/93739242/153429772-4c277f45-a48b-47bf-9611-d79bfb1362d8.png)
 
@@ -79,6 +86,10 @@
 
 **31. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia de 400 Hz.**
  
+ ![image](https://user-images.githubusercontent.com/93739242/153435651-bdde6b16-d716-40d0-a711-edd83047cff0.png)
+
+![image](https://user-images.githubusercontent.com/93739242/153435693-a7510bdd-3ea2-4958-a969-4c9fae769c37.png)
+
 
  ![lagrida_latex_editor](https://user-images.githubusercontent.com/93739242/153431576-94cd2d87-4b5c-4247-83aa-040ae92c84a9.png)
 
@@ -86,29 +97,40 @@
 
 ![lagrida_latex_editor (19)](https://user-images.githubusercontent.com/93739242/153431590-52c11644-9e3a-4588-bf1c-f711ed534d26.png)
 
+![image](https://user-images.githubusercontent.com/93739242/153435896-11d11399-51f6-4c0a-8b03-39ff5cb29208.png)
+
+
 ![lagrida_latex_editor (20)](https://user-images.githubusercontent.com/93739242/153431630-cbc522e1-8bbd-4911-ae61-2757905c5029.png)
 
 ![lagrida_latex_editor (21)](https://user-images.githubusercontent.com/93739242/153431658-91751ab1-a818-4196-8d52-b1a547275aca.png)
+
+![image](https://user-images.githubusercontent.com/93739242/153435597-3e666bdc-9fad-4db5-b947-9f9eb1df8b4e.png)
 
  
 ![lagrida_latex_editor (22)](https://user-images.githubusercontent.com/93739242/153431684-a0978121-0224-4bd1-99ad-7b5df172b535.png)
 
 ![lagrida_latex_editor (23)](https://user-images.githubusercontent.com/93739242/153431724-c13d0c40-20d2-419f-8197-0f752026d8c8.png)
 
- 
+ ![image](https://user-images.githubusercontent.com/93739242/153435557-6868cb52-289b-4fa3-a45d-672a4b3c4966.png)
+
 
 ![lagrida_latex_editor (24)](https://user-images.githubusercontent.com/93739242/153431751-9dfdbf21-fe35-4580-85d3-8c17bbc9e118.png)
 
 ![lagrida_latex_editor (25)](https://user-images.githubusercontent.com/93739242/153431774-0ad3208f-373a-4483-ba60-983a5c4f435f.png)
  
+ ![image](https://user-images.githubusercontent.com/93739242/153435507-f43001c4-1734-41c8-96d4-20f41ea6b40c.png)
+
 
 ![lagrida_latex_editor (26)](https://user-images.githubusercontent.com/93739242/153431802-0463b5a6-fc95-4a8d-a0d3-fd7ce2b0aa85.png)
 
 ![lagrida_latex_editor (27)](https://user-images.githubusercontent.com/93739242/153431834-9b2d407c-2a04-491d-a3a4-8e62cb1fe56f.png)
 
- 
+ ![image](https://user-images.githubusercontent.com/93739242/153435479-f974c5d3-364a-4c3b-8c20-b20c5b895d2a.png)
+
 
 ![lagrida_latex_editor (28)](https://user-images.githubusercontent.com/93739242/153431865-bf1a94a3-bb39-4a40-a869-710fc72cda3b.png)
+
+![image](https://user-images.githubusercontent.com/93739242/153435459-fbe6bc23-2574-47b4-8bb2-db224980c7dd.png)
 
  
 ![lagrida_latex_editor (29)](https://user-images.githubusercontent.com/93739242/153431892-3c48e7d7-122a-408b-9424-ec76c4b540ce.png)
@@ -120,12 +142,24 @@
 
 
 **5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.**
+
+![image](https://user-images.githubusercontent.com/93739242/153435100-d39050fa-6c02-4f43-90b9-0ed32ac73eb1.png)
+
  
-Las bobinas están en la misma dirección, es decir, el primario y el secundario los voltajes están en fase. La relación de vueltas es de 10, lo que significa que el voltaje secundario tiene un rms 10 veces mayor que la tensión de entrada (100V). 
+(a) Las bobinas están en la misma dirección, es decir, el primario y el secundario los voltajes están en fase. La relación de vueltas es de 10, lo que significa que el voltaje secundario tiene un rms 10 veces mayor que la tensión de entrada (100V). 
 
-Las bobinas se enrollan en la dirección opuesta, lo que significa que los voltajes secundarios y primarios están fuera de fase en 180 grados. La relación de vueltas es 2, lo que significa que el voltaje en el secundario será el doble de la tensión en el primario (100V)
+![image](https://user-images.githubusercontent.com/93739242/153435217-91819ab3-7222-4a48-b504-88aa4cf8cd11.png)
 
-Las bobinas se enrollan en la dirección opuesta, lo que significa que los voltajes secundarios y primarios están fuera de fase en 180 grados. El voltaje en el secundario será una quinta parte de la tensión en la primaria (20V)
+
+(b) Las bobinas se enrollan en la dirección opuesta, lo que significa que los voltajes secundarios y primarios están fuera de fase en 180 grados. La relación de vueltas es 2, lo que significa que el voltaje en el secundario será el doble de la tensión en el primario (100V)
+
+![image](https://user-images.githubusercontent.com/93739242/153435270-e5e9bfe7-0904-451a-bfa4-e5a84f58a6e2.png)
+
+
+(c) Las bobinas se enrollan en la dirección opuesta, lo que significa que los voltajes secundarios y primarios están fuera de fase en 180 grados. El voltaje en el secundario será una quinta parte de la tensión en la primaria (20V)
+
+![image](https://user-images.githubusercontent.com/93739242/153435320-e3c170be-ba68-417f-85d3-c8dcb0f5a1a4.png)
+
 
 **7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5**
 
@@ -134,9 +168,13 @@ Las bobinas se enrollan en la dirección opuesta, lo que significa que los volta
 
 **13. Determine las lecturas de medidor no especificadas en la figura 14-44**
 
- 
+ ![image](https://user-images.githubusercontent.com/93739242/153435011-400467e8-259c-421a-a1de-862faf923cf8.png)
+
 
 ![lagrida_latex_editor (32)](https://user-images.githubusercontent.com/93739242/153433515-54284658-4189-4628-8d07-d35e7ef20cd4.png)
+
+![image](https://user-images.githubusercontent.com/93739242/153435039-006ad465-7243-49af-b576-9af55628ccbb.png)
+
 
 ![lagrida_latex_editor (33)](https://user-images.githubusercontent.com/93739242/153433531-b28fe6af-3ea4-4cc1-9907-98cfa2127b3c.png)
 
@@ -150,7 +188,8 @@ Las bobinas se enrollan en la dirección opuesta, lo que significa que los volta
 
  **(d) Potencia en la carga**
 
- 
+ ![image](https://user-images.githubusercontent.com/93739242/153434906-0e80ece7-b422-43a7-b9f7-492f1701baf8.png)
+
 
 (a)
 
@@ -178,6 +217,8 @@ El coeficiente de acoplamiento es el porcentaje del campo magnético generado po
 
 **29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.**
 
+ ![image](https://user-images.githubusercontent.com/93739242/153434878-bad3b521-8ae7-4592-b2ab-e594f46571af.png)
+
  
 (a)
 
@@ -193,7 +234,8 @@ El coeficiente de acoplamiento es el porcentaje del campo magnético generado po
 
 **(b) La resistencia reflejada en el primario**
 
- 
+ ![image](https://user-images.githubusercontent.com/93739242/153434854-81f9ad11-969b-4c6e-8efd-67beaa9d8ec5.png)
+
 
 (a)
 
