@@ -80,44 +80,40 @@
 **31. Determine la reactancia total para cada circuito de la figura 13-47 cuando se aplica voltaje a una frecuencia de 400 Hz.**
  
 
- 
-<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&L_{12}=\frac{L_{1}*L_{2}}{L_{1}&plus;L_{2}}\\&=\frac{50m*100m}{50m&plus;100m}\\&\frac{5m}{150m}=33.33mH\end{aligned}" title="\begin{aligned}&L_{12}=\frac{L_{1}*L_{2}}{L_{1}+L_{2}}\\&=\frac{50m*100m}{50m+100m}\\&\frac{5m}{150m}=33.33mH\end{aligned}" />
+ ![lagrida_latex_editor](https://user-images.githubusercontent.com/93739242/153431576-94cd2d87-4b5c-4247-83aa-040ae92c84a9.png)
 
-<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&L_{34}=\frac{L_{3}*L_{4}}{L_{3}&plus;L_{4}}\\&=\frac{60m*40m}{60m&plus;40m}\\&\frac{2.4m}{100m}=24mH\end{aligned}" title="\begin{aligned}&L_{34}=\frac{L_{3}*L_{4}}{L_{3}+L_{4}}\\&=\frac{60m*40m}{60m+40m}\\&\frac{2.4m}{100m}=24mH\end{aligned}" />
 
- 
-<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&L_{T}=L_{12}&plus;L_{34}\\&=33.33mH&plus;24mH=57.33mH\\\end{aligned}" title="\begin{aligned}&L_{T}=L_{12}+L_{34}\\&=33.33mH+24mH=57.33mH\\\end{aligned}" />
 
-<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&X_{L}=2\Pi&space;fL\\&X_{LT}=2\Pi&space;fL_{T}\\&X_{LT}=2\Pi&space;(400Hz)(57.33mH)=144.08\Omega&space;\\\end{aligned}" title="\begin{aligned}&X_{L}=2\Pi fL\\&X_{LT}=2\Pi fL_{T}\\&X_{LT}=2\Pi (400Hz)(57.33mH)=144.08\Omega \\\end{aligned}" />
+![lagrida_latex_editor (19)](https://user-images.githubusercontent.com/93739242/153431590-52c11644-9e3a-4588-bf1c-f711ed534d26.png)
 
- 
+![lagrida_latex_editor (20)](https://user-images.githubusercontent.com/93739242/153431630-cbc522e1-8bbd-4911-ae61-2757905c5029.png)
 
-<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&L_{12}=L_{1}&plus;L_{2}\\&L_{12}=8m&plus;4m=12mH\\\end{aligned}" title="\begin{aligned}&L_{12}=L_{1}+L_{2}\\&L_{12}=8m+4m=12mH\\\end{aligned}" />
-
-<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&L_{34}=L_{3}&plus;L_{4}\\&L_{34}=2m&plus;4m=6mH\\\end{aligned}" title="\begin{aligned}&L_{34}=L_{3}+L_{4}\\&L_{34}=2m+4m=6mH\\\end{aligned}" />
+![lagrida_latex_editor (21)](https://user-images.githubusercontent.com/93739242/153431658-91751ab1-a818-4196-8d52-b1a547275aca.png)
 
  
+![lagrida_latex_editor (22)](https://user-images.githubusercontent.com/93739242/153431684-a0978121-0224-4bd1-99ad-7b5df172b535.png)
 
-<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&L_{1234}=\frac{L_{12}*L_{34}}{L_{12}&plus;L_{34}}\\&L_{1234}=\frac{12m*6m}{12m&plus;6m}\\&L_{1234}=\frac{72\mu&space;}{18m}=4mH\end{aligned}" title="\begin{aligned}&L_{1234}=\frac{L_{12}*L_{34}}{L_{12}+L_{34}}\\&L_{1234}=\frac{12m*6m}{12m+6m}\\&L_{1234}=\frac{72\mu }{18m}=4mH\end{aligned}" />
-
-<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&X_{L}=2\Pi&space;fL\\&X_{LT}=2\Pi&space;fL_{1234}\\&X_{LT}=2\Pi&space;(400Hz)(4mH)=10.05\Omega&space;\end{aligned}" title="\begin{aligned}&X_{L}=2\Pi fL\\&X_{LT}=2\Pi fL_{1234}\\&X_{LT}=2\Pi (400Hz)(4mH)=10.05\Omega \end{aligned}" />
+![lagrida_latex_editor (23)](https://user-images.githubusercontent.com/93739242/153431724-c13d0c40-20d2-419f-8197-0f752026d8c8.png)
 
  
 
-<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&L_{34}=L_{3}&plus;L_{4}\\&=1m&plus;1m=2mH\\&space;\end{aligned}" title="\begin{aligned}&L_{34}=L_{3}+L_{4}\\&=1m+1m=2mH\\ \end{aligned}" />
+![lagrida_latex_editor (24)](https://user-images.githubusercontent.com/93739242/153431751-9dfdbf21-fe35-4580-85d3-8c17bbc9e118.png)
 
-<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&L_{25}=L_{2}&plus;L_{5}\\&=2m&plus;2m=4mH\\&space;\end{aligned}" title="\begin{aligned}&L_{25}=L_{2}+L_{5}\\&=2m+2m=4mH\\ \end{aligned}" />
+![lagrida_latex_editor (25)](https://user-images.githubusercontent.com/93739242/153431774-0ad3208f-373a-4483-ba60-983a5c4f435f.png)
+ 
+
+![lagrida_latex_editor (26)](https://user-images.githubusercontent.com/93739242/153431802-0463b5a6-fc95-4a8d-a0d3-fd7ce2b0aa85.png)
+
+![lagrida_latex_editor (27)](https://user-images.githubusercontent.com/93739242/153431834-9b2d407c-2a04-491d-a3a4-8e62cb1fe56f.png)
 
  
 
-
-<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&L_{2345}=\frac{L_{34}L_{25}}{L_{34}&plus;L_{25}}\\&=\frac{2m*4m}{2m&plus;4m}=1.33mH\\&space;\end{aligned}" title="\begin{aligned}&L_{2345}=\frac{L_{34}L_{25}}{L_{34}+L_{25}}\\&=\frac{2m*4m}{2m+4m}=1.33mH\\ \end{aligned}" />
+![lagrida_latex_editor (28)](https://user-images.githubusercontent.com/93739242/153431865-bf1a94a3-bb39-4a40-a869-710fc72cda3b.png)
 
  
+![lagrida_latex_editor (29)](https://user-images.githubusercontent.com/93739242/153431892-3c48e7d7-122a-408b-9424-ec76c4b540ce.png)
 
-<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&L_{12345}=L_{1}&plus;L_{2345}\\&=4m&plus;1.33m=5.33mH\\&space;\end{aligned}" title="\begin{aligned}&L_{12345}=L_{1}+L_{2345}\\&=4m+1.33m=5.33mH\\ \end{aligned}" />
-
-<img src="https://latex.codecogs.com/svg.image?\begin{aligned}&X_{L}=2\Pi&space;fL\\&X_{L/T}=2\Pi&space;fL_{12345}\\&X_{L/T}=2\Pi&space;(400Hz)(5.33mH)=13.395\Omega&space;\end{aligned}" title="\begin{aligned}&X_{L}=2\Pi fL\\&X_{L/T}=2\Pi fL_{12345}\\&X_{L/T}=2\Pi (400Hz)(5.33mH)=13.395\Omega \end{aligned}" />
+![lagrida_latex_editor (30)](https://user-images.githubusercontent.com/93739242/153431970-08c34c95-9472-4402-b11c-e5aecb9719d5.png)
 
 
 **CAPITULO 14**
