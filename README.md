@@ -119,6 +119,90 @@
 **CAPITULO 14**
 
 
+**5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.**
+ 
+Las bobinas están en la misma dirección, es decir, el primario y el secundario los voltajes están en fase. La relación de vueltas es de 10, lo que significa que el voltaje secundario tiene un rms 10 veces mayor que la tensión de entrada (100V). 
+
+Las bobinas se enrollan en la dirección opuesta, lo que significa que los voltajes secundarios y primarios están fuera de fase en 180 grados. La relación de vueltas es 2, lo que significa que el voltaje en el secundario será el doble de la tensión en el primario (100V)
+
+Las bobinas se enrollan en la dirección opuesta, lo que significa que los voltajes secundarios y primarios están fuera de fase en 180 grados. El voltaje en el secundario será una quinta parte de la tensión en la primaria (20V)
+
+**7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5**
+
+![lagrida_latex_editor (31)](https://user-images.githubusercontent.com/93739242/153433446-0eab9620-d037-4190-b8eb-367074a0f6f6.png)
+
+
+**13. Determine las lecturas de medidor no especificadas en la figura 14-44**
+
+ 
+
+![lagrida_latex_editor (32)](https://user-images.githubusercontent.com/93739242/153433515-54284658-4189-4628-8d07-d35e7ef20cd4.png)
+
+![lagrida_latex_editor (33)](https://user-images.githubusercontent.com/93739242/153433531-b28fe6af-3ea4-4cc1-9907-98cfa2127b3c.png)
+
+**15. Determine las siguientes cantidades en la figura 14-46.**
+
+**(a) Corriente primaria** 
+
+**(b) Corriente secundaria** 
+
+**(c) Voltaje secundario**
+
+ **(d) Potencia en la carga**
+
+ 
+
+(a)
+
+![lagrida_latex_editor (34)](https://user-images.githubusercontent.com/93739242/153433563-f11fece9-7f9f-4394-a10e-ec1c7ab7033f.png)
+
+(b)
+
+![lagrida_latex_editor (35)](https://user-images.githubusercontent.com/93739242/153433632-de80bfe8-961f-403e-9a16-aaf7068f54e5.png)
+
+(c)
+
+![lagrida_latex_editor (36)](https://user-images.githubusercontent.com/93739242/153433660-e54752f3-39d8-41b3-ba96-8a661a55a003.png)
+
+(d)
+
+![lagrida_latex_editor (37)](https://user-images.githubusercontent.com/93739242/153433688-3d65d6a8-61b9-4382-9555-5e706dc8b8d0.png)
+
+**21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?**
+
+![lagrida_latex_editor (38)](https://user-images.githubusercontent.com/93739242/153433731-e0452d2e-7df3-4788-8fc7-b7b62bfbd101.png)
+
+**23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.**
+
+El coeficiente de acoplamiento es el porcentaje del campo magnético generado por el primario eso pasa por la secundaria. Si el 2% no pasa por el medio secundario, el 98% restante debe pesar por él. Por lo tanto, el coeficiente de acoplamiento es k=0.98
+
+**29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.**
+
+ 
+(a)
+
+![lagrida_latex_editor (39)](https://user-images.githubusercontent.com/93739242/153433766-cb54b2be-0849-4d1e-8881-db499b684fda.png)
+
+(b)
+
+![lagrida_latex_editor (40)](https://user-images.githubusercontent.com/93739242/153433791-ec4755ca-ec45-4022-8f34-c48e03dbba73.png)
+
+**31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:** 
+
+**(a) Todos los voltajes y corrientes presentes en la carga** 
+
+**(b) La resistencia reflejada en el primario**
+
+ 
+
+(a)
+
+![lagrida_latex_editor (41)](https://user-images.githubusercontent.com/93739242/153433818-05e0922a-a9f1-473e-be13-1245c02a88bb.png)
+
+(b)
+
+![lagrida_latex_editor (42)](https://user-images.githubusercontent.com/93739242/153433844-80c4a595-82a1-46c0-99db-e689aa579a07.png)
+
 
 # 4. VIDEO #
 
