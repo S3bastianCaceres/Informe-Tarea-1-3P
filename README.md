@@ -4,7 +4,7 @@
 
 **Objetivo General**
 
-Analizar propiedades eléctricas y características 
+Analizar propiedades eléctricas y características de los inductores y su comportamiento en disposiciones de circuitos y corriente a traves de el estudio del capitulo 13 y su aplicación en ejercicio propuestos con el fin de tener una base para la revisión del capitulo 14 donde se hablará de los transformadores los cuales se basan en el principio de inductancia mutua.
 
 **Objetivos Específicos**
 
