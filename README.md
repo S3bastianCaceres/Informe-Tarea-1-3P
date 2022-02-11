@@ -31,6 +31,22 @@ Analizar propiedades eléctricas y características de los inductores y su compo
 
 **CAPITULO 13**
 
+**1. Convierta los siguientes valores en milihenries:**
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=a)1H%5Cleftrightarrow%201000mH%20%5C%5C%0Ab)250%5Cmu%20H%20%5Cleftrightarrow%200.025mH%20%5C%5C%0Ac)10%5Cmu%20H%5Cleftrightarrow%200.01mH%5C%5C%0Ad)0.0005%20H%5Cleftrightarrow%200.5mH%5C%5C">
+
+
+**3.¿Cuál es el voltaje en una bobina cuando di/dt = 10 mA/micro s y L = 5 micro H?**
+
+Formula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=V_%7Bind%7D%3DL(%5Cfrac%7Bd_%7Bi%7D%7D%7Bd_%7Bt%7D%7D)">
+
+Reemplazando datos:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=V_%7Bind%7D%3D5%20%5Cmu%20H(%5Cfrac%7B10mA%7D%7B%5Cmu%20s%7D)%3D50mV">
+
+
 **5. La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?**
 **El voltaje inducido a través de la bobina es:**
 
@@ -40,6 +56,36 @@ Analizar propiedades eléctricas y características de los inductores y su compo
 **La cantidad de energía que se guarda en el inductor es:**
 
 ![lagrida_latex_editor (1)](https://user-images.githubusercontent.com/93739242/153429267-db38e1ae-8c71-4ce9-b4a6-fae084ffa88e.png)
+
+**9. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un núcleo de hierro (permeabilidad relativa = 150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa = 200).**
+
+Formula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=L%3D%5Cfrac%7BN%5E%7B2%7D%5Cmu%20A%7D%7Bl%7D">
+
+Reemplazando datos y comparando:
+
+En inductor 1:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=L%3D%5Cfrac%7B(200)%5E%7B2%7D%5Cmu%20A%7D%7Bl%7D">
+
+En inductor 2:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=L%3D%5Cfrac%7B(150)%5E%7B2%7D%5Cmu%20A%7D%7Bl%7D">
+
+Comparando:
+
+El inductor 2 tiene tres cuartos de la inductancia del inductor 1.
+
+**11. Se conectan cinco inductores en serie. El valor más bajo es de 5 mH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?**
+
+Inductancias:
+
+[![01.png](https://i.postimg.cc/wxZqC3TT/01.png)](https://postimg.cc/WtmcrNkQ)
+
+Suma de las inductancias:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=L_%7Btotal%7D%3D150%20%5Cmu%20H">
 
 **13. Determine la inductancia total en la figura 13-44.**
  
@@ -52,6 +98,50 @@ Analizar propiedades eléctricas y características de los inductores y su compo
 
 ![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/93739242/153429450-3f1a2f32-508b-4dda-88cd-ba034fcbf073.png)
 
+**17. Determine la inductancia total de cada circuito mostrado en la figura 13-46.**
+
+[![17.png](https://i.postimg.cc/qBLYK5Wf/17.png)](https://postimg.cc/148JhJ9M)
+
+En a:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=L_%7Btotal%7D%3D%5BL_%7B3%7D%7C%7C%20L_%7B2%7D%5D%2BL_%7B1%7D%3D%5B5%7C%7C10%5D%2B1%3D4.33%20H">
+
+En b:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=L_%7Btotal%7D%3D%5BL_%7B2%7D%2B%20L_%7B3%7D%5D%7C%7CL_%7B1%7D%3D%5B50%2B50%5D%7C%7C100%3D%5B100%7C%7C100%5D%3D50mH">
+
+En c:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=L_%7Btotal%7D%3D%5BL_%7B1%7D%7C%7CL_%7B2%7D%7C%7CL_%7B3%7D%5D%3D%5B100%7C%7C400%7C%7C200%5D%3D57.14%20%5Cmu%20H">
+
+**19. Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:**
+
+En a:
+
+Formula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Ctau%20%3D%5Cfrac%7BL%7D%7BR%7D">
+
+En a:
+
+Reemplazando datos en la formula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Ctau%20%3D%5Cfrac%7B0.0001%20H%7D%7B100%20%20%5COmega%20%7D%3D0.000001%20s%3D%201%20%5Cmu%20s">
+
+
+En b:
+
+Reemplazando datos en la formula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Ctau%20%3D%5Cfrac%7B10%20%5Cmu%20H%7D%7B4.7%20k%20%5COmega%20%7D%3D2.127%5Cmu%20s">
+
+En c:
+
+Reemplazando datos en la formula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=%5Ctau%20%3D%5Cfrac%7B3%20H%7D%7B1.5%20M%20%5COmega%20%7D%3D2%5Cmu%20s">
+
+
 **21. En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor: (a) 10μs (b) 20μs (c) 30μs (d) 40μs (e) 50μs**
  
  ![image](https://user-images.githubusercontent.com/93739242/153436055-38624a75-0545-4155-bcde-df44554aa553.png)
@@ -63,6 +153,20 @@ Analizar propiedades eléctricas y características de los inductores y su compo
 **23. Repita el problema 21 para los siguientes instantes:**
 
 ![lagrida_latex_editor (5)](https://user-images.githubusercontent.com/93739242/153429699-978f49b4-bf48-4ee4-9c0e-f0116af67c1f.png)
+
+**25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?**
+
+[![25.png](https://i.postimg.cc/50mPwX75/25.png)](https://postimg.cc/qhzXrvdg)
+
+11 micro segundos
+
+
+**27. Determine la constante de tiempo para el circuito de la figura 13-50.**
+
+[![27.png](https://i.postimg.cc/3NSncPHd/27.png)](https://postimg.cc/N2X6yCFc)
+
+
+0.722 micro segundos
 
 **29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5t y se abre. ¿Cuál es la corriente en el inductor 1.0 ms después de que se abre el interruptor?**
 
@@ -149,7 +253,64 @@ Analizar propiedades eléctricas y características de los inductores y su compo
 
 ![lagrida_latex_editor (30)](https://user-images.githubusercontent.com/93739242/153431970-08c34c95-9472-4402-b11c-e5aecb9719d5.png)
 
+**33. ¿Qué frecuencia producirá una corriente rms total de 500 mA en cada circuito de la figura 13-47 con un voltaje de entrada rms de 10 V?**
 
+[![33.png](https://i.postimg.cc/PqQb7BWT/33.png)](https://postimg.cc/HJj7cvvh)
+
+***Fórmula que se usara:***
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=x_%7BL%7D%3D2%20%5Cpi%20fL%20%20%5Cleftrightarrow%20f%3D%5Cfrac%7Bx_%7BL%7D%7D%7B2%20%5Cpi%20L%7D">
+
+
+***Hallar xl***
+
+Fórmula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=I_%7Brms%7D%3D%5Cfrac%7BV_%7Bms%7D%7D%7Bx_%7BL%7D%7D%20%20%5Cleftrightarrow%20%20x_%7BL%7D%3D%5Cfrac%7BV_%7Bms%7D%7D%7BI_%7Brms%7D%7D">
+
+Reemplazando en la fórmula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=x_%7BL%7D%3D%5Cfrac%7B10V%7D%7B0.5A%7D%3D20%20%20%5COmega%20">
+
+***En a:***
+
+**Inductancia equivalente:**
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=L_%7Btotal%7D%3D%5BL_%7B1%7D%7C%7CL_%7B2%7D%5D%2B%5BL_%7B3%7D%7C%7CL_%7B4%7D%5D%3D%5B100%7C%7C50%5D%2B%5B60%7C%7C40%5D%3D57.33mH">
+
+**Reemplazando en la formula de la frecuencia:**
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=f%3D%5Cfrac%7B20%20%5COmega%20%7D%7B2%20%5Cpi%20(57%2C3mH)%7D%3D55.51Hz">
+
+
+***En b:***
+
+**Inductancia equivalente:**
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=L_%7Btotal%7D%3D(%5BL_%7B3%7D%2BL_%7B4%7D%5D%7C%7C%5BL_%7B1%7D%2BL_%7B2%7D%5D)%3D%5B6%5D%7C%7C%5B12%5D%3D4mH">
+
+**Reemplazando en la formula de la frecuencia:**
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=f%3D%5Cfrac%7B20%20%5COmega%20%7D%7B2%20%5Cpi%20(4mH)%7D%3D795.7Hz">
+
+***En c:***
+
+**Inductancia equivalente:**
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=L_%7Btotal%7D%3D%5B(%5BL_%7B2%7D%2BL_%7B5%7D%5D%7C%7C%5BL_%7B4%7D%2BL_%7B3%7D%5D)%5D%2BL_%7B1%7D%3D(%5B4%5D%7C%7C%5B2%5D)%2B4%3D5.33mH">
+
+**Reemplazando en la formula de la frecuencia:**
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=f%3D%5Cfrac%7B20%20%5COmega%20%7D%7B2%20%5Cpi%20(5.33mH)%7D%3D597.2Hz">
+
+
+
+**35. Determine IL2 en la figura 13-52.**
+
+ [![35.png](https://i.postimg.cc/CKhmHjtv/35.png)](https://postimg.cc/k2HQ7t78)
+ 
+ 26.1 mA
+ 
 **CAPITULO 14**
 
 
