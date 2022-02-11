@@ -10,7 +10,10 @@ Analizar propiedades eléctricas y características de los inductores y su compo
 
 - Describir como se construyen y las características básicas de un inductor, ademas de los varios tipos de inductores que existen.
 - Analizar circuitos de inductores colocados en serie y paralelo, ya sean de cd o ca. 
-
+- Explicar de manera detallada la definición de la inductancia mutua y cuales son sus características. 
+- Describir los diferentes tipos de transformadores que existen y localizar sus fallas.
+- Analizar que es una carga reflejada en un transformador y cual es la forma en la que los mismos reducen e icrementan el voltaje.
+- Comprender la igualación de impedancias con transformadores y el efecto de una carga resistiva mediante un devano secundario
 # 2. MARCO TEÓRICO #
 
 
@@ -531,3 +534,6 @@ https://www.youtube.com/watch?v=P0b_sMZWU0A
 - El análisis de los circuitos en serie y paralelo con inductores se los realiza calculando la inductancia equivalente, si es paralelo es la suma de sus inversos al inverso de su suma, si es en serie se suman sus inductancias, para las fuentes de CA se usa la reactancia inductiva  y la ley de ohm para este tipo de fuente, si el análisis en fuentes CD, en estas fuentes no existe el voltaje inducido si no un divisor de voltaje queque provoca la resistencia del devanado y la inductancia se comporta como un corto y se puede calcular la constante de tiempo que determina el intervalo fijo de la inductancia a la resistencia.
 
 # 6. BIBLIOGRAFÍA #
+
+- Floyd, T. L. (2007). Principios de circuitos eléctricos. (8.ª ed.). México: PEARSON EDUCACIÓN.
+- Valchev, V. C., & Van den Bossche, A. (2018). Inductors and transformers for power electronics. CRC press.
