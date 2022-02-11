@@ -524,5 +524,10 @@ https://www.youtube.com/watch?v=P0b_sMZWU0A
 
 # 5. CONCLUSIONES #
 
+- El análisis de los circuitos con los  inductores dependen de la fuente de voltaje, ya sea en CD o AC, los inductores cambian sus caracteísticas, cuando mas sea la corriente que lo atraviesa mas sera su campo magnético, es asi como actua un inductor.
+
+-Las coracterísticas de un inductos son: longuitud del devanado, Area de la seccion transversal, material del núcleo, número de vueltas de la espira, es asi como un inductor basico se compone, existen varios tipos de inductores, como los inductores con recubrimiento como: plasticos, resina, metal; tambien existen inductores de altas frecuencias con mayor tamaño y se usan en los transformadores de energía eléctrica.
+
+-El análisis de los circuitos en serie y paralelo con inductores se los realiza calculando la inductancia equivalente, si es paralelo es la suma de sus inversos al inverso de su suma, si es en serie se suman sus inductancias, para las fuentes de CA se usa la reactancia inductiva  y la ley de ohm para este tipo de fuente, si el análisis en fuentes CD, en estas fuentes no existe el voltaje inducido si no un divisor de voltaje queque provoca la resistencia del devanado y la inductancia se comporta como un corto y se puede calcular la constante de tiempo que determina el intervalo fijo de la inductancia a la resistencia.
 
 # 6. BIBLIOGRAFÍA #
