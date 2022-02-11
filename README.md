@@ -16,7 +16,7 @@ Analizar propiedades eléctricas y características de los inductores y su compo
 
 **CAPITULO 13**
 
-
+[![mapa-1314.jpg](https://i.postimg.cc/8k7TDY4b/mapa-1314.jpg)](https://postimg.cc/grbCHNfw)
 
 **CAPITULO 14**
 
