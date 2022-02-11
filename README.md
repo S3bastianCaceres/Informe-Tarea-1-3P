@@ -313,6 +313,31 @@ Reemplazando en la fórmula:
  
 **CAPITULO 14**
 
+**1. ¿Cuál es la inductancia mutua cuando k = 0.75, L1 = 1 micro H, y L2 = 4 micro H?**
+
+Formula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=L_%7BM%7D%3Dk%5Csqrt%7BL_%7B1%7DL_%7B2%7D%7D">
+
+
+Reemplazar datos:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=L_%7BM%7D%3D(0.75)%5Csqrt%7B(1%20%5Cmu%20H)(4%5Cmu%20H)%7D%3D1.5%5Cmu%20H">
+
+**3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?**
+
+Formula que se usara:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=n%3D%5Cfrac%20%7BN_%7Bsec%7D%7D%7BN_%7Bpri%7D%7D">
+
+Cuando inicia con 250 vueltas y termina en 1000:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=n%3D%5Cfrac%7B1000%7D%7B2500%7D%3D4">
+
+Cuando inicia con 400 vuelts y termina con 100:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=n%3D%5Cfrac%7B100%7D%7B400%7D%3D0.25">
+
 
 **5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.**
 
@@ -338,6 +363,25 @@ Reemplazando en la fórmula:
 
 ![lagrida_latex_editor (31)](https://user-images.githubusercontent.com/93739242/153433446-0eab9620-d037-4190-b8eb-367074a0f6f6.png)
 
+**9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?**
+
+Formula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=n%3D%5Cfrac%20%7BV_%7Bsec%7D%7D%7BV_%7Bpri%7D%7D">
+
+Reemplazando datos:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=n%3D%5Cfrac%7B30V%7D%7B120V%7D%3D0.25">
+
+**11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?**
+
+Fórmula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=n%3D%5Cfrac%7BV_%7Bsec%7D%7D%7BV_%7Bprin%7D%7D%20%5Cleftrightarrow%20V_%7Bprin%7D%3D%5Cfrac%7BV_%7Bsec%7D%7D%7Bn%7D">
+
+Reemplazando en la fórmula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=V_%7Bprin%7D%3D%5Cfrac%7B6V%7D%7B0.1%7D%3D60V">
 
 **13. Determine las lecturas de medidor no especificadas en la figura 14-44**
 
@@ -380,6 +424,22 @@ Reemplazando en la fórmula:
 
 ![lagrida_latex_editor (37)](https://user-images.githubusercontent.com/93739242/153433688-3d65d6a8-61b9-4382-9555-5e706dc8b8d0.png)
 
+**17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Æ en el circuito primario?**
+
+[![17.png](https://i.postimg.cc/J0nfTf22/17.png)](https://postimg.cc/njySrPZ4)
+
+Formula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=n%3D%5Csqrt%7B%5Cfrac%20%7BR_%7BL%7D%7D%7BR_%7Bpri%7D%7D%7D">
+
+Reemplazando datos:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=n%3D%5Csqrt%7B%5Cfrac%7B1000%20%5COmega%20%7D%7B300%20%5COmega%20%7D%7D%3D1.825W">
+
+**19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 ohms?**
+
+[![19.png](https://i.postimg.cc/pL8g1YsR/19.png)](https://postimg.cc/zyztyWmc)
+
 **21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?**
 
 ![lagrida_latex_editor (38)](https://user-images.githubusercontent.com/93739242/153433731-e0452d2e-7df3-4788-8fc7-b7b62bfbd101.png)
@@ -387,6 +447,41 @@ Reemplazando en la fórmula:
 **23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.**
 
 El coeficiente de acoplamiento es el porcentaje del campo magnético generado por el primario eso pasa por la secundaria. Si el 2% no pasa por el medio secundario, el 98% restante debe pesar por él. Por lo tanto, el coeficiente de acoplamiento es k=0.98
+
+**25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV?**
+
+Formula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=P%3DIV">
+
+Reemplazando datos:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=P%3D(10A)(2.5kV)%3D25kVA">
+
+**27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.**
+
+[![27.png](https://i.postimg.cc/05BFkH39/27.png)](https://postimg.cc/CdbmJJS2)
+
+Formula:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=V_%7Bsec%7D%3D(%5Cfrac%20%7BN_%7Bsec%7D%7D%7BN_%7Bpri%7D%7D)(V_%7Bpri%7D)">
+
+
+En V1:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=V_%7B1%7D%3D(%5Cfrac%20%7B50%7D%7B500%7D)(115V)%3D11.5V">
+
+En V2:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=V_%7B2%7D%3D(%5Cfrac%20%7B100%7D%7B500%7D)(115V)%3D23V">
+
+En V3:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=V_%7B3%7D%3D(%5Cfrac%20%7B100%7D%7B500%7D)(115V)%3D23V">
+
+En V4:
+
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=V_%7B4%7D%3D(%5Cfrac%20%7B200%7D%7B500%7D)(115V)%3D46V">
 
 **29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.**
 
@@ -417,6 +512,10 @@ El coeficiente de acoplamiento es el porcentaje del campo magnético generado po
 (b)
 
 ![lagrida_latex_editor (42)](https://user-images.githubusercontent.com/93739242/153433844-80c4a595-82a1-46c0-99db-e689aa579a07.png)
+
+**33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?**
+
+La corriente primaria se extrae y se quema la fuente si no se proteje el primario con un fusible
 
 
 # 4. VIDEO #
