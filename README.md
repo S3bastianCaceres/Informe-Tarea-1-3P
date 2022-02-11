@@ -2,6 +2,14 @@
  
 # 1. OBJETIVOS #
 
+**Objetivo General**
+
+Analizar propiedades eléctricas y características 
+
+**Objetivos Específicos**
+
+- Describir como se construyen y las características básicas de un inductor, ademas de los varios tipos de inductores que existen.
+- Analizar circuitos de inductores colocados en serie y paralelo, ya sean de cd o ca. 
 
 # 2. MARCO TEÓRICO #
 
@@ -12,6 +20,10 @@
 
 **CAPITULO 14**
 
+![png (2)](https://user-images.githubusercontent.com/93739242/153541575-872e36d1-c2bb-49ae-87de-9216645b1dd7.png)
+
+
+![png (3)](https://user-images.githubusercontent.com/93739242/153541608-c3214bc8-990c-422f-b90e-f24b26ca9418.png)
 
 
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS #
@@ -248,7 +260,7 @@ El coeficiente de acoplamiento es el porcentaje del campo magnético generado po
 
 # 4. VIDEO #
 
-
+https://www.youtube.com/watch?v=P0b_sMZWU0A
 
 # 5. CONCLUSIONES #
 
